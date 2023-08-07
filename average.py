@@ -1,3 +1,4 @@
+#Asks user for 5 numbers and prints out the average of the numbers
 num1 = float(input("Please enter five numbers. \n"))
 num2 = float(input( ))
 num3 = float(input( ))
